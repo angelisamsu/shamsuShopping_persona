@@ -26,7 +26,7 @@ Proje kök dizininde bir terminal açın
 Bağımlılıkları yükleyin:
 ```bash
    flutter pub get
-
+```
 Uygulamayi calistir (spesifik cihazda) :
    ```bash
    flutter devices
